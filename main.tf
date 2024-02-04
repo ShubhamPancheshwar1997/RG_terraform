@@ -18,3 +18,8 @@ resource "azurem_resource_group" "name1" {
   name = "vinay-rg"
   location = "west us"
 }
+resource "azurem_resource_group" "name2" {
+  
+  name = "vinay-rg1"
+  location = "west us"
+}
