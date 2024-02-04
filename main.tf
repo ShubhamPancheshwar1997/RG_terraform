@@ -13,3 +13,8 @@ resource "azurem_resource_group" "name" {
   name = "shubhrg3"
   location = "west us"
 }
+resource "azurem_resource_group" "name6" {
+  
+  name = "shubhrg6"
+  location = "west us"
+}
